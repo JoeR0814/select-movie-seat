@@ -1,0 +1,1 @@
+"This app allows users to select a movie and choose their preferred seats, including handicap-accessible options. The selections are saved in the browser's local storage, so users can return later to view or modify their choices. The app is built using HTML, CSS, and JavaScript, offering a smooth and dynamic user experience."
