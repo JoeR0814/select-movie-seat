@@ -113,10 +113,12 @@ body {
 
 .row {
   display: inline-block;
+  padding-left: 20px;
 }
 
 .screen {
   background-color: #fff;
+  color: black;
   height: 70px;
   width: 100%;
   margin: 15px 0;
